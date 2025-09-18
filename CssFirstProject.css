@@ -1,0 +1,42 @@
+
+
+.test1{
+   color:rgb(0, 13, 255);
+
+  font-family: cursive;
+
+  font-size: larger;
+
+  text-align:center;
+
+ 
+}
+
+.test3{ 
+    color:rgb(0, 81, 255);
+    text-align:center;
+    
+
+}
+
+.test5{
+    
+    height: 400;
+    width: 400;
+    background-color: rgb(216, 216, 216);
+    border: 5px black solid;
+    text-align:center;
+}
+.test4{
+    height: 300;
+    width: 300;
+    border: 5px black solid;
+    background-color: bisque;
+    text-align:center;
+}
+.test6{
+   border: 3px #2462c6 solid;
+   padding-left: 10px;
+   text-align:center;
+
+}
